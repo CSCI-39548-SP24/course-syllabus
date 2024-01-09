@@ -27,7 +27,7 @@ Recommended prerequisites:
 ## Grading
 
 50% - Assignments (4 x 12.5%) (Late submission penalties applied at 10% per week) <br/>
-40% - Final Project (30%) + Presentation (10%) <br/>
+40% - Final (Group) Project (30%) + Presentation (10%) <br/>
 10% - Lab Report <br/>
 10% - Extra Credit Presentation <br/>
 
@@ -42,6 +42,8 @@ FinalGrade =
 .10 * (lab report grade) +
 .10 * (extra credit grade) +
 .40 * (final project grade)
+
+*All calculations rounded up.
 ```
 
 The formula should be pretty straightforward to understand. Your final letter grade is based on CUNY grading ranges as outlined [here](https://hunter.cuny.edu/students/registration/records-and-transcripts/grading-structure/).
@@ -60,7 +62,7 @@ Books:
 
 * JavaScript: The Good Parts
     * Amazon Link: https://a.co/d/83NUXkY
-    * Really good light/intro reading on JavaScript
+    * Excellent light/intro reading on JavaScript
 
 
 Documentations:
@@ -68,14 +70,14 @@ Documentations:
     * Useful documentation from Mozilla Developer Network
     * Has information on HTML/CSS/JS syntax and methods.
 
-* ReactJS Docs: https://reactjs.org/docs/getting-started.html
+* ReactJS Docs: https://react.dev/reference/react
     * Official documentation for ReactJS
 
 
 * NodeJS Docs: https://nodejs.org/en/docs/
     * Official documentation for NodeJS
-    * We will be using Node.js 17.x and +
-    * Focusing mostly around the http module.
+    * We will be using Node.js 16.x and +
+    * Recommend we use the current LTS version.
 
 
 * ExpressJS Docs: https://expressjs.com/en/4x/api.html
@@ -84,18 +86,36 @@ Documentations:
 
 And additional documentations around frameworks that we'll take a look at.
 
-In lieu of office hours, we will be leveraging Slack as a class-wide communication/collaboration platform. You can post questions/comments on anything regarding our course materials, assignment and projects. Please do be respectful of on another and avoid any (unintentional) plagiarism on the platform.
+---
 
 ## Slack
-We'll be using Slack as our primary communication platform. This is probably the best way to reach me, aside from my email/office hour meetings. I tend to check Slack throughout the day, especially if I'm at work, and will try and answer all questions/inquiries as soon as possible.
+We'll be using Slack as our primary communication platform outside our class. This is probably the best way to reach me, aside from my email/in-person office hour meetings. I tend to check Slack throughout the day, especially if I'm at work, and will try and answer all questions/inquiries as soon as possible.
 
 - Check our class Blackboard for the most up-to-date Slack invite link.
 - Invites will not be emailed out individually, so it's import that you join our classroom Slack yourself via the link provided on Blackboard.
 - Reach out to me if you run into any issues with joining Slack!
 
 ---
+## Office Hours (~30min sessions)
 
-### GitHub Classroom
+I'm usually available for a quick virtual meeting most days of the week, feel free to schedule a time with me via my appointment link below:
+
+https://y3pio.setmore.com/
+
+I'll send a Google meet invite to the email you signed up with as a confirmation, or reply back to schedule a different time if it doesn't work!
+
+### In-person Office Hours
+
+```text
+Mondays, 1:00pm - 5:00pm
+Faculty Resource Center, 5th floor, Cooperman Library
+```
+
+I also try and reserve an office space on lecture days at the faculty resource center (5th floor Cooperman library). I'll also post in the `#announcement` Slack channel whenever I'm there, send a message on Slack if you'd like to stop by for in-person office hours.
+
+---
+
+## GitHub Classroom
 We will be using GitHub classroom to complete our assignments. Each assignment link will be handed out via BlackBoard, which will give you access to your own personal assignment GitHub repository, where you will commit code/answers to your assignments.
 
 As part of `assignment0` (not graded), you will be required to properly set up your GitHub account, and join our GitHub classroom.
@@ -123,7 +143,7 @@ Content/order subject to change*
 - Introduction to CSS
     - CSS selectors and ordering
     - Flexbox and responsive designs/styling
-### Assignment 1
+### Assignment 1 (HTML/CSS)
 
 ### Javascript
 - History of JS, ECMA script
@@ -137,7 +157,7 @@ Content/order subject to change*
     - Callback functions
     - HTML Events
     - Network/API calls
-### Assignment 2
+### Assignment 2 (JavaScript Language Fundamentals)
 
 ### NodeJS
 - What is a framework?
@@ -153,7 +173,7 @@ Content/order subject to change*
 - Integrating with other REST-ful APIs:
     - https://thecatapi.com/
     - https://www.deckofcardsapi.com/
-### Assignment 3
+### Assignment 3 (Backend JavaScript)
 
 ### ReactJS
 - ReactJS overview and history
@@ -169,7 +189,7 @@ Content/order subject to change*
     - Single source of truth
 - Redux store, actions, reducer.
 - Integrating Redux with React app.
-### Assignment 4 & Project Proposals
+### Assignment 4 (Frontend Javascript) & Project Proposals
 
 ### Persisting Data/DBs
 - FE vs BE persisting
@@ -184,7 +204,7 @@ Content/order subject to change*
 - A look at No-SQL DBs.
     - MongoDB, Firebase (realtime DB)
     - Connecting to MongoDB/Firebase
-### Lab Report
+### Lab Report (Database/Data Persistence)
 
 ### Additional Topics/Studies
 - ReactJS testing using react testing library
