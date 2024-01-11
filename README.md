@@ -96,13 +96,13 @@ We'll be using Slack as our primary communication platform outside our class. Th
 - Reach out to me if you run into any issues with joining Slack!
 
 ---
-## Office Hours (~30min sessions)
+## Office Hours (Virtual ~30min sessions via Google Meet)
 
 I'm usually available for a quick virtual meeting most days of the week, feel free to schedule a time with me via my appointment link below:
 
 https://y3pio.setmore.com/
 
-I'll send a Google meet invite to the email you signed up with as a confirmation, or reply back to schedule a different time if it doesn't work!
+I'll send a Google Meet invite to the email you signed up with as a confirmation, or reply back to schedule a different time if it doesn't work!
 
 ### In-person Office Hours
 
