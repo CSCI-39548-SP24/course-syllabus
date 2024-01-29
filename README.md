@@ -122,6 +122,20 @@ As part of `assignment0` (not graded), you will be required to properly set up y
 
 ---
 
+## Lecture Stream/Recordings
+
+One of the feedback I received from previous semesters was to make our live lectures available via Blackboard classroom, and also recordings of it available asynchronously.
+
+### Lecture Streams
+I've set up a Blackboard Class Collaborate Ultra open session which you can find in your Blackboard account under `Tools -> Class Collaborate Ultra -> Click on Lecture/Classroom Stream(Open Session)`. I will make sure to join this session and share my screen to allow students that can't make it to our in person lectures to follow along.
+
+### Recordings
+In the past, I've attempted to record our class lectures and upload them for the students to review/look back on at their own pace. However, due to the storage/editing/necessity requirements, I've found it not sustainable in the long run. To compromise, I will record a shortened (~30-45min) recap/recitation version of our lecture for the week and upload that instead.
+
+Storage location can be found in this public Google drive folder on my personal Google account (link also on Blackboard): https://drive.google.com/drive/folders/103a4SXDVNlIo-ISXdVZIOpwjok6KH9yl?usp=drive_link
+
+---
+
 ## Course Topics/Schedule
 Content/order subject to change*
 
